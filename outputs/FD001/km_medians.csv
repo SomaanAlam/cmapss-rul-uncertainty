@@ -1,0 +1,4 @@
+curve,median_life,ci_low,ci_high
+Train engines (all failed),199.0,192.0,207.0
+"Train + test, test censored",202.0,198.0,213.0
+"Train + test, true failure times",199.0,195.0,206.0
